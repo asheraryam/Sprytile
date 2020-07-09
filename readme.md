@@ -4,6 +4,7 @@
     <h4 align="center">
         A <img src="https://download.blender.org/institute/logos/blender-socket.png" height="20px"/> addon for creating tile based low spec 3D scenes. (Unofficial port for blender 2.8)
     </h4>
+    <h3 align="center">Note! This fork is now merged into the official repository (https://github.com/Sprytile/Sprytile) and development is continuing there. Please submit bug reports/pull requests to the official repository.</h3>
   <br>
 </p>
 
